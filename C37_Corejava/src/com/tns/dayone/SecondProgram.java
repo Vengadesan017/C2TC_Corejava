@@ -1,24 +1,22 @@
 package com.tns.dayone;
 
-public class SecondProgram {
+ public class SecondProgram {
 	
-	private void address() {
-		// TODO Auto-generated method stub
-		System.out.println("Chennai");
-	}
-
-	private void name() {
-		// TODO Auto-generated method stub
-       System.out.println("manikandan");
-	}
-
-	public static void main(String[] args) {
-
-	SecondProgram a=new SecondProgram();
-
-	a.address();
-	a.name();
-	}
-	}
-	
-	
+  public static void main(String[] args) {
+  // assigning single character literal
+	  char ch = 'a';
+	  System.out.println(ch);
+	  // assigning number to char
+	  char ch1 = 65;
+	  System.out.println(ch1);
+	  // assigning unicode to char
+	  char var1 = '\u00A7';
+	  System.out.println(var1);
+	  // Unicode representation
+	  char var2 = '\u20AC';
+	  System.out.println(var2);
+	  // ASCI code representation
+	  int a = 'A';
+	  System.out.println(a);
+}
+}
