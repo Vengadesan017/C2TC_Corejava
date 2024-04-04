@@ -3,11 +3,10 @@ package com.tns.dayone;
 public class IdentifiersDemo {
 	
 	public static void main(String[] args) {
-		//Valid Identifier Examples
-		int $number = 20; //starts with $
+		int $number = 20; 
 		System.out.println("value of the number variable is : "+ 
 		$number);
-		String studentName="Aniket"; //use camelcase
+		String studentName="Aniket";
 		System.out.println("value is : "+ studentName);
 		}
 		}
