@@ -3,7 +3,7 @@ package com.tns.dayfive;
 public class MultilevelInheritanceDemo {
 	public static void main(String[] args) {
 		City city = new City();
-		city.setStateName("Nashik");
+		city.setStateName("ashik");
 		city.setArea(264.2f);
 		city.setStateName("Maharashtra");
 		city.setLanguage("Marathi");
