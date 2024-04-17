@@ -1,6 +1,6 @@
 package com.tns.dayone;
 
- public class SecondProgram {
+ public class SecondProgram1 {
 	
   public static void main(String[] args) {
   
