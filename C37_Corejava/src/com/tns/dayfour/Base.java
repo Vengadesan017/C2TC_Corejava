@@ -1,4 +1,4 @@
-package com.tns.dayfour.firstpackage;
+package com.tns.dayfour;
 
 public class Base {
 	int varDefault = 10;
